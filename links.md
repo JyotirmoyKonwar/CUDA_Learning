@@ -1,7 +1,7 @@
 # Links to the Videos That I am watching
 
 1. [CUDA Programming Course – High-Performance Computing with GPUs - freeCodeCamp](https://youtu.be/86FAWCzIe_4?si=kzww1pRa3lyhvwNo)
-2. [CUDA Crash Course - Nick] (https://youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU&si=E8iWKiSL9rkBLLQT)
+2. [CUDA Crash Course - Nick](https://youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU&si=E8iWKiSL9rkBLLQT)
 3. [Modern CUDA C++ Programming Class - NVIDIA](https://www.youtube.com/playlist?list=PL5B692fm6--vWLhYPqLcEu6RF3hXjEyJr)
 4. [CUDA Trainings & Updates - NVIDIA](https://www.youtube.com/playlist?list=PL5B692fm6--vScfBaxgY89IRWFzDt0Khm)
 5. [C++ - The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
