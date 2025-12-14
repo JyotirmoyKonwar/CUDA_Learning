@@ -11,3 +11,4 @@
 9. [NOC Jan 2020: GPU Architectures and Programming- Prof Soumyajit Dey - NPTEL IIT KGP](https://www.youtube.com/playlist?list=PLbRMhDVUMngfj_NXI7jqMYLnhcRhRKAGq)
 10. [Fundamentals of GPU Architecture - Nick](https://www.youtube.com/playlist?list=PLxNPSjHT5qvscDTMaIAY9boOOXAJAS7y4)
 11. [IIT Madras GPU Programming, Spring 2021](https://www.youtube.com/playlist?list=PL4YhK0pT0ZhXX5i5TlQzSprfJ78kjHV3i)
+12. [GPU Programming Specialization - John Hopkins Uni](https://www.coursera.org/specializations/gpu-programming#courses)
